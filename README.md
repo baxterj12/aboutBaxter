@@ -1,3 +1,7 @@
+# Building again
+
+after saved changes, run ng build --base-href "https://baxterj12.github.io/aboutBaxter/" and npx angular-cli-ghpages --dir=dist/aboutBaxter/browser again
+
 # AboutBaxter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.

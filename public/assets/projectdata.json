@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "About Baxter Website",
-      "description": "*In Progress* Made a website to showcase my skills and explain a little more about me. I started in Sepetember 2024 and am still working on it. Out of a desire to learn a new skill, I made this website using Angular and Typescript.",
+      "description": "*In Progress* Made a website to showcase my skills and explain a little more about me. I started in Sepetember 2024 and am still working on it. Out of a desire to learn new skills, I made this website using Angular and Typescript.",
       "skills": [
         "Angular",
         "HTML",
@@ -12,9 +12,10 @@
         "Site deployment"
       ],
       "pictures": [
-        "/projects/website1.png"
+        "projects/website1.png",
+        "projects/website2.png"
       ],
-      "link": "link coming upon site publishing"
+      "link": "https://github.com/baxterj12/aboutBaxter"
     },
     {
       "id": 2,
@@ -30,9 +31,9 @@
         "Site deployment"
       ],
       "pictures": [
-        "/projects/candela1.png",
-        "/projects/candela2.png",
-        "/homepage/projectsprev.png"    
+        "projects/candela1.png",
+        "projects/candela2.png",
+        "homepage/projectsprev.png"    
       ],
       "link": "https://candelarendertest.onrender.com/"
     },
@@ -48,8 +49,8 @@
         "UI/UX design"
       ],
       "pictures": [
-        "/projects/allbets1.png",
-        "/projects/allbets2.png"
+        "projects/allbets1.png",
+        "projects/allbets2.png"
       ],
       "link": null
     },

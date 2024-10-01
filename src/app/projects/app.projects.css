@@ -36,6 +36,8 @@
     padding-left: 5vw;
     padding-right: 5vw;
     text-align: center;
+    width: 100vw;
+    overflow: hidden;
 }
 
 .projectTitle{
@@ -54,12 +56,15 @@
     padding-left: 10vw;
     padding-right: 10vw;
     font-size: 1.5vw;
+    display: flex;
+    flex-direction: column;
 }
 
 .projectSkills{
     width: 50vw;
     font-size: 1.5vw;
     padding-left: 22vw;
+    padding-right: 0;
     text-align: left;
 }
 
@@ -67,10 +72,11 @@
     display: flex;
     flex-direction: row;
     padding: 2vw;
+    padding-left: 10vw;
     gap: 10vw;
     justify-content: center;
     align-items: center;
-    width: 100vw;
+    width: 80vw;
 }
 
 .projectImage{
