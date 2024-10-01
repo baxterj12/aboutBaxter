@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "About Baxter Website",
+      "description": "*In Progress* Made a website to showcase my skills and explain a little more about me. I started in Sepetember 2024 and am still working on it. Out of a desire to learn a new skill, I made this website using Angular and Typescript.",
+      "skills": [
+        "Angular",
+        "HTML",
+        "CSS",
+        "Typescript",
+        "JSON parsing",
+        "Site deployment"
+      ],
+      "pictures": [
+        "/projects/website1.png"
+      ],
+      "link": "link coming upon site publishing"
+    },
+    {
+      "id": 2,
+      "name": "Candela Website",
+      "description": "Entirely by myself, created a website for purposeware startup Candela. I originally met the founder while working for Georgetown Ventures, a club at Georgetown focused on helping early-stage startups and entrepreneurs. This website was my introduction to Next.js and React.js, which I now love. The hardest, but most rewarding part, was adding the Square Checkout API to the backend to ensure customer payments could be processed. Ensured compatibility for both desktop and mobile.",
+      "skills": [
+        "Next.js",
+        "React.js",
+        "CSS",
+        "HTML",
+        "JSON parsing",
+        "API calls",
+        "Site deployment"
+      ],
+      "pictures": [
+        "/projects/candela1.png",
+        "/projects/candela2.png",
+        "/homepage/projectsprev.png"    
+      ],
+      "link": "https://candelarendertest.onrender.com/"
+    },
+    {
+      "id": 3,
+      "name": "allBETS UI/UX implementation",
+      "description": "Interning for DC-based startup allBETS in summer 2024, I was part of a team that fixed bugs and provided new features on the websites (site not live) frontend. My key contributions included adding a confirm bet screen, fixing bugs in category selection and live bet creation, as well as implementing a new layout for the my profile page. Ensured compatibility for both desktop and mobile.",
+      "skills": [
+        "React.js",
+        "HTML",
+        "CSS",
+        "API calls",
+        "UI/UX design"
+      ],
+      "pictures": [
+        "/projects/allbets1.png",
+        "/projects/allbets2.png"
+      ],
+      "link": null
+    },
+    {
+      "id": 4,
+      "name": "allBETS AI playbook",
+      "description": "Also for allBETS, I created an AI powered model to predict the outcome of an NFL or NBA game given the user input of two teams. This was done in Python using the XGboost library, and the model was trained  using open source data sets that I modified and cleaned in R. My NBA model using advanced stats was 60% accurate, and the NBA model using traditional statistics was 100% accurate. I based my NFL model on traditional offensive stats and tested it to be 85% accurate.",
+      "skills": [
+        "Python",
+        "R",
+        "File Processing and Manipulation",
+        "XGboost",
+        "Machine Learning",
+        "Data Structures"
+      ],
+      "pictures": null,
+      "link": null
+    },
+    {
+      "id": 5,
+      "name": "FC24 evo generator",
+      "description": "My first project, made in February 2023, was based on the video game EAFC24. In the game, soccer players are given card with attributes such as overall, speed, shooting, etc. The game also includes evolutions, challenges that will upgrade any card that meets the evolution requirements. I used C++ to build an evolution generator that, given a player's name, will discover the player's maximum possible overall by chaining evolutions together. The player data was imported from an open source data set, manipulated and cleaned in R, and then fed into data structures and recursive functions to achieve their maximum possible overall.",
+      "skills": [
+        "C++",
+        "Object-Oriented Programming",
+        "R",
+        "File Processing and Manipulation",
+        "Data Structures",
+        "Recursion"
+      ],
+      "pictures": null,
+      "link": "https://github.com/baxterj12/FCevoGenerator"
+    }
+  ]
