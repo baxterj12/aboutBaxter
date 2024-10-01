@@ -1,0 +1,15 @@
+<style>
+</style>
+
+<main>
+    <div class="skillsHeader">
+        <a routerLink="/" routerLinkActive="active" aria-current="page"><mat-icon class="homeLink">home</mat-icon></a>
+        <h1>Skills</h1>
+    </div>
+    <div class="body">
+        <div *ngFor="let skills of data">
+            <h2>{{ skills.skill }}</h2>
+            <h3 style="margin-left: 30px;">- Demonstrated in: {{skills.from}}</h3>
+        </div>
+    </div>
+</main>

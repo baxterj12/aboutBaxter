@@ -1,0 +1,49 @@
+.resumeHeader{
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(143, 143, 234);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.homeLink{
+    position: absolute;
+    left: 5%;
+    font-size: 25px;
+    color: white;
+    top: 3.5%;
+}
+
+.body{
+    background-color: rgb(99, 99, 161);
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    color: white;
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2vh;
+    padding-bottom: 5vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    font-size: 20px;
+}
+
+.imgRow{
+    display: flex;
+    flex-direction: row;
+    padding-left:10vw;
+    padding-right:10vw;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10vw;
+}
+
+.aboutImg{
+    width: 20vw;
+}

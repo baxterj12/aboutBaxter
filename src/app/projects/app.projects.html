@@ -1,0 +1,24 @@
+<style>
+</style>
+
+<main>
+    <div class="projectsHeader">
+        <a routerLink="/" routerLinkActive="active" aria-current="page"><mat-icon class="homeLink">home</mat-icon></a>
+        <h1>Projects</h1>
+    </div>
+    <div class="body">
+        <div *ngFor="let project of data" class="project">
+            <h2 class="projectTitle">{{ project.name }}</h2>
+            <div class="descAndSkills">
+                <p class="desc">{{ project.description }}</p>
+                <div class="projectSkills">
+                    <p>Skills:</p>
+                    <li *ngFor="let skill of project.skills">{{ skill }}</li>
+                </div>
+            </div>
+            <div class="projectImages">
+                <img *ngFor="let image of project.pictures" [src]="image" alt="{{ project.name }} image" class="projectImage"/>
+            </div>
+        </div>
+    </div>
+</main>
