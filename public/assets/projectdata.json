@@ -8,7 +8,8 @@
         "HTML",
         "CSS",
         "Typescript",
-        "JSON parsing"
+        "JSON parsing",
+        "Site deployment"
       ],
       "pictures": [
         "/projects/website1.png"
@@ -26,7 +27,7 @@
         "HTML",
         "JSON parsing",
         "API calls",
-        "Web hosting"
+        "Site deployment"
       ],
       "pictures": [
         "/projects/candela1.png",
