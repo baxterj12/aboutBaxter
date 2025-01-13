@@ -1,7 +1,7 @@
 .projectsHeader{
     width: 100vw;
     height: 10vh;
-    background-color: rgb(143, 143, 234);
+    background-color:  rgb(99, 99, 161);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +18,7 @@
 }
 
 .body{
-    background-color: rgb(143, 143, 234);
+    background-color: rgb(99, 99, 161);
     display: flex;
     flex-direction: column;
     gap: 5px;
@@ -32,7 +32,7 @@
 .project{
     display: flex;
     flex-direction: column;
-    background-color: rgb(99, 99, 161);
+    background: linear-gradient(to top, rgb(99, 99, 161), rgb(143, 143, 234) 50%, rgb(99, 99, 161));
     padding-left: 5vw;
     padding-right: 5vw;
     text-align: center;

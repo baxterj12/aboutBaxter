@@ -1,27 +1,59 @@
 [
     {
+        "skill": "C++",
+        "from": "COSC 051: Computer Science I, COSC 052: Computer Science II, COSC 2010: Data Structures, FC24 evo generator"
+    },
+    {
+        "skill": "Python",
+        "from": "Foreign Exchange Predictor, Georgetown Ventures, allBets AI playbook internship"
+    },
+    {
         "skill": "JavaScript",
-        "from": "About Baxter Website, Candela Website, allBets UI/UX internship"
+        "from": "Candela Website, allBets UI/UX internship"
     },
     {
         "skill": "Java",
         "from": "COSC 2020: Advanced Programming"
     },
     {
-        "skill": "C++",
-        "from": "COSC 051: Computer Science I, COSC 052: Computer Science II, COSC 2010: Data Structures, FC24 evo generator"
+        "skill": "R",
+        "from": "MATH 2140: Intro Math Statistics, MATH 1505: Data Visualization & Graphics, allBets AI playbook internship, FC24 evo generator"
     },
     {
-        "skill": "Python",
-        "from": "allBets AI playbook internship"
+        "skill": "SQL",
+        "from": "Foreign Exchange Predictor"
+    },
+    {
+        "skill": "PostgreSQL",
+        "from": "Foreign Exchange Predictor"
+    },
+    {
+        "skill": "React.js",
+        "from": "Candela Website, allBets UI/UX internship"
+    },
+    {
+        "skill": "Typescript",
+        "from": "About Baxter Website, Foreign Exchane Predictor"
+    },
+    {
+        "skill": "Next.js",
+        "from": "Candela Website"
+    },
+    {
+        "skill": "Angular",
+        "from": "Foreign Exchange Predictor, About Baxter Website"
+    },
+    {
+        "skill": "CSS",
+        "from": "Foreign Exchange Predictor, About Baxter Website, Candela Website, allBets UI/UX internship"
+    },
+    {
+        "skill": "HTML",
+        "from": "Foreign Exchange Predictor, About Baxter Website, Candela Website, allBets UI/UX internship"
     },
     {
         "skill": "Scheme",
         "from": "COSC 3010: Programming Languages"
-    },
-    {
-        "skill": "R",
-        "from": "MATH 2140: Intro Math Statistics, MATH 1505: Data Visualization & Graphics, allBets AI playbook internship, FC24 evo generator"
     },
     {
         "skill": "Data Structures",
@@ -32,6 +64,18 @@
         "from": "COSC 2010: Data Structures, COSC 2020: Advanced Programming, COSC 052: Computer Science II, COSC 051: Computer Science I, FC24 evo generator"
     },
     {
+        "skill": "Machine Learning",
+        "from": "Foreign Exchange Predictor, allBets AI playbook internship"
+    },      
+    {
+        "skill": "XGBoost",
+        "from": "allBets AI playbook internship"
+    },
+    {
+        "skill": "Site deployment",
+        "from": "About Baxter Website, Candela Website"
+    },
+    {
         "skill": "Recursion",
         "from": "COSC 3010: Programming Languages, COSC 2010: Data Structures, FC24 evo generator"
     },
@@ -40,48 +84,12 @@
         "from": "allBets AI playbook internship, FC24 evo generator, COSC 052: Computer Science II, COSC 051: Computer Science I"
     },   
     {
-        "skill": "React.js",
-        "from": "About Baxter Website, Candela Website, allBets UI/UX internship"
-    },
-    {
-        "skill": "Typescript",
-        "from": "About Baxter Website"
-    },
-    {
-        "skill": "Next.js",
-        "from": "Candela Website"
-    },
-    {
-        "skill": "Angular",
-        "from": "About Baxter Website"
-    },
-    {
-        "skill": "CSS",
-        "from": "About Baxter Website, Candela Website, allBets UI/UX internship"
-    },
-    {
-        "skill": "HTML",
-        "from": "About Baxter Website, Candela Website, allBets UI/UX internship"
-    },
-    {
-        "skill": "Machine Learning",
-        "from": "allBets AI playbook internship"
-    },      
-    {
-        "skill": "XGBoost",
-        "from": "allBets AI playbook internship"
-    },
-    {
         "skill": "JSON parsing",
         "from": "About Baxter Website, Candela Website"
     },
     {
         "skill": "API calls",
-        "from": "Candela Website, allBets UI/UX internship"
-    },
-    {
-        "skill": "Site deployment",
-        "from": "About Baxter Website, Candela Website"
+        "from": "Foreign Exchange Predictor, Candela Website, allBets UI/UX internship"
     },
     {
         "skill": "UI/UX design",
