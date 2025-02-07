@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Foreign Exchange Predictor",
-      "description": "Inspired by constantly switching between US Dollars and Great British Pounds, I am currently working on a full-stack project to analyze foreign exchange rates for 161 currencies in order to maximize profit in the forex market. I began in December 2024 by creating the Angular frontend, which I attached to a Python backend to handle machine learning and a PostgreSQL database.",
+      "description": "Inspired by constantly switching between US Dollars and Great British Pounds, I am currently working on a full-stack project to analyze foreign exchange rates for 161 currencies in order to maximize profit in the forex market. I began in December 2024 by creating the Angular frontend, which I attached to a Python backend to handle machine learning and a live updating PostgreSQL database with over 54,000 rows of data.",
       "skills": [
         "Angular",
         "HTML",
@@ -13,7 +13,8 @@
         "PostgreSQL",
         "SQL",
         "API calls"
-      ]
+      ],
+      "link": "https://github.com/baxterj12/forex"
     },
     {
       "id": 2,
@@ -28,8 +29,8 @@
         "Site deployment"
       ],
       "pictures": [
-        "projects/website1.png",
-        "projects/website2.png"
+        "projects/website3.png",
+        "projects/website4.png"
       ],
       "link": "https://github.com/baxterj12/aboutBaxter"
     },
