@@ -5,7 +5,7 @@
     },
     {
         "skill": "Python",
-        "from": "Foreign Exchange Predictor, Georgetown Ventures, allBets AI playbook internship"
+        "from": "Tudor RAG Integration, Foreign Exchange Predictor, Georgetown Ventures, allBets AI playbook internship"
     },
     {
         "skill": "JavaScript",
@@ -52,6 +52,18 @@
         "from": "Foreign Exchange Predictor, About Baxter Website, Candela Website, allBets UI/UX internship"
     },
     {
+        "skill": "LLM Prompting",
+        "from": "Tudor RAG Integration"
+    },
+    {
+        "skill": "RAG",
+        "from": "Tudor RAG Integration"
+    },
+    {
+        "skill": "Data Pipelines",
+        "from": "Tudor RAG Integration"
+    }, 
+    {
         "skill": "Scheme",
         "from": "COSC 3010: Programming Languages"
     },
@@ -65,8 +77,8 @@
     },
     {
         "skill": "Machine Learning",
-        "from": "Foreign Exchange Predictor, allBets AI playbook internship"
-    },      
+        "from": "Tudor RAG Integration, Foreign Exchange Predictor, allBets AI playbook internship"
+    },     
     {
         "skill": "XGBoost",
         "from": "allBets AI playbook internship"
@@ -81,8 +93,8 @@
     },
     {
         "skill": "File Processing and Manipulation",
-        "from": "allBets AI playbook internship, FC24 evo generator, COSC 052: Computer Science II, COSC 051: Computer Science I"
-    },   
+        "from": "Tudor RAG Integration, allBets AI playbook internship, FC24 evo generator, COSC 052: Computer Science II, COSC 051: Computer Science I"
+    },  
     {
         "skill": "JSON parsing",
         "from": "About Baxter Website, Candela Website"
@@ -95,4 +107,4 @@
         "skill": "UI/UX design",
         "from": "allBets UI/UX internship"
     }
-]
+ ] 
